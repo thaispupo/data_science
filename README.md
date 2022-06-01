@@ -16,5 +16,7 @@ Minhas formações iniciam com o técnico em eletrônica, que consequentemente m
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thais-machado-66b2b4a1)
 
+**Projetos do Sigmoidal**
+* [AirBnB](https://bityli.com/kLibWT)
 
 ---
